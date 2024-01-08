@@ -21,15 +21,6 @@ The core OOD concepts implemented in this project include:
 - Exception handling
 - Inner class
 
-## Individual Contributions
-
-1. **Darshit Sharma**: Backend functionalities [Spring Data JPA functions] - Group and Members
-2. **Preyash Mehta**: Backend Functionalities [Spring Data JPA functions] - Expense and User
-3. **Govind Mudavadkar**: Backend Functionalities [Spring Data JPA functions] - Expense and User
-4. **Rudra Tarte**: Backend functionalities [Spring Data JPA functions] - Group and Members
-5. **Piyush Chorriya**: Frontend functionalities [React App with Spring] - Login Integration
-6. **Nidhi Patel**: Frontend functionalities [React App with Spring] - Registration Integration
-7. **Dainish Chaiyya**: Frontend functionalities [React App with Spring] - Group expenses UI Integration
 
 ## Project Details
 
